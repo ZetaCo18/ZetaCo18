@@ -1,7 +1,5 @@
-### Bienvenido, Mi nombre es Brandon👋
-![cat-ayasan](https://user-images.githubusercontent.com/93481587/222915413-3d97cff7-79e9-4342-9a3a-660d52242751.gif)
+### Bienvenido, Mi nombre es Brandon <!--![XOsX (1)](https://user-images.githubusercontent.com/93481587/222915544-9e427af5-9c13-4bb9-b244-69f87fafd6e0.gif)
 
-<!--
 **ZetaCo18/ZetaCo18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
