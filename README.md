@@ -1,4 +1,5 @@
-### Bienvenido, Mi nombre es Brandon https://tenor.com/es/view/cat-ayasan-gif-24417464 👋
+### Bienvenido, Mi nombre es Brandon👋
+![cat-ayasan](https://user-images.githubusercontent.com/93481587/222915413-3d97cff7-79e9-4342-9a3a-660d52242751.gif)
 
 <!--
 **ZetaCo18/ZetaCo18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
